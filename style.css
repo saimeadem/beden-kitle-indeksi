@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+    text-align: center;}
+  h1{
+    font-size: 40px;
+    align-items: center;
+  } 
+
+.img-container{
+    margin: 100px 50px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    gap: 80px;
+    
+}
